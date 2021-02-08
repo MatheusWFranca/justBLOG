@@ -22,3 +22,26 @@ img {
   max-width: 100%; /* Diminuir as imagens responsivo */
 }
 
+/* INFO */
+
+.superinfo-bg {
+  background: #122ab2;
+  color: #fff;
+}
+
+.superinfo {
+  max-width: 960px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-top: 10px;
+}
+
+.superinfo p, .superinfo a {
+  margin: 0 10px 10px 10px;
+  letter-spacing: 0.5px;
+}
+
+.superinfo-bg a {
+  color: #fff;
+}
