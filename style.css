@@ -19,5 +19,6 @@ a {
 
 img {
   display: block;
-  max-width: 100%; /* Diminuir as imagens no responsivo */
+  max-width: 100%; /* Diminuir as imagens responsivo */
 }
+
